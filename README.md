@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# ReduxSimpleStarter
-=======
+
 # Single Page Application with React 
->>>>>>> c6dba14aa6ac18b9c04ee61520d14f26ab905909
 
 ### Getting Started
 
